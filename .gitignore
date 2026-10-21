@@ -69,3 +69,6 @@ pytestdebug.log
 .vscode/
 *.pyc
 __pycache__/
+# Allure
+allure_results/
+allure-report/
